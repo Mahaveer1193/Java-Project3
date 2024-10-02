@@ -1,8 +1,8 @@
 package Assignment6;
 class Person
 {
-	final String Name ="VAISHNAVI";
-	final int age=21;
+	final String Name ="Mahaveer";
+	final int age=25;
 	
 	public String getName() {
 		return Name;
